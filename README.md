@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com/?size=24&color=ff6e96&lines=🌟Olá,+meu+nome+é+Vinicius🌟;👋Bem+vindo+ao+meu+perfil+GitHub;)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?pause=300&color=ff6e96&lines=Olá,+meu+nome+é+Vinicius👋;Bem+vindo+ao+meu+perfil+GitHub)](https://git.io/typing-svg)
 
 **ViniciusCavalcanteSantos/ViniciusCavalcanteSantos**
 
